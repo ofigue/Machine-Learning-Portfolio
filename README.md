@@ -17,3 +17,5 @@
 # [BNP - Paribas Cardif ](https://github.com/ofigue/BNP-ParibasCardif)
 
 * BNP - Paribas Cardif
+
+Markdown editing: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
