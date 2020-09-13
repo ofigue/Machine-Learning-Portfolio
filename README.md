@@ -7,7 +7,7 @@
 # [Prudential Life Insurance](https://github.com/ofigue/PrudentialLifeInsurance)
 
 * Prudential Life Insurance
-![Image](/images/altumcode1-dC6Pb2JdAqs-unsplash.jpg)
+![Image](/images/imageedit_1_8431889727.jpg)
 
 # [Rossman Store Sales](https://github.com/ofigue/RossmanStoreSales)
 
