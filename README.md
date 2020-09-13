@@ -1,4 +1,4 @@
-# ML Projects
+# Projects:
 
 ## [Grupo Bimbo Inventory Demand](https://github.com/ofigue/GrupoBimboInventoryDemand)
 
