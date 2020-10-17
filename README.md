@@ -1,7 +1,7 @@
 # Projects:
 
-## [Pump it Up: Data Mining the Water Table](https://github.com/ofigue/Tazmania_WaterPump)
 
+## [Loan Predictions](https://github.com/ofigue/Loan_Predictions)
 
 This project is based on the competition Analytics Vidhya had published about Loans from the company “Dream Housing Finance”, which deals with all kind of home loans spread across urban a rural area. The data that had been collected has some features related to demographic information about clients and some of their financial data. The dataset is a small one, around 600 rows, and also the number of features is small, just around 12 features without the dataset id and the target.
 
