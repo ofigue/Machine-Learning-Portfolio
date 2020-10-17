@@ -11,6 +11,7 @@ This project is based on the competition Analytics Vidhya had published about Lo
 
 This project is based on the competition Driven Data® had published about water pumps in Tanzania, a large country that suffers from access to good quality water. The information for the competition was obtained by the Tanzania Ministry of Water using an open source platform called Taarifa.
 
+![Image](/images/imageedit_10_8374872721.jpg)
 
 ## [Richter's Predictor: Modeling Earthquake damage](https://github.com/ofigue/RichterPrediction)
 
