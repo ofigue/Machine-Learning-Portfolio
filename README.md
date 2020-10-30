@@ -33,7 +33,7 @@ Prudential, one of the largest issuers of life insurance in the USA, It has a li
 
 From the competition site description: The purpose of this competition is to forecast sales using store, promotion, and competitor data. Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality.
 
-## [Santander Customer Satisfaction](https://github.com/ofigue/RossmanStoreSales)
+## [Santander Customer Satisfaction](https://github.com/ofigue/Santander_Cust_Satisfaction)
 
 From the competition site description: From frontline support teams to C-suites, customer satisfaction is a key measure of success. Unhappy customers don't stick around. What's more, unhappy customers rarely voice their dissatisfaction before leaving. Santander Bank is asking Kagglers to help them identify dissatisfied customers early in their relationship.
 
