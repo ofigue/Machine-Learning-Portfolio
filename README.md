@@ -25,7 +25,7 @@ This project is based on the competition Driven Data published related to an ear
 
 ## [Prudential Life Insurance](https://github.com/ofigue/PrudentialLifeInsurance)
 
-* Prudential Life Insurance
+Prudential, one of the largest issuers of life insurance in the USA, It has a life insurance application process antiquated, customers provide extensive information to identify risk classification and eligibility, including scheduling medical exams, a process that takes an average of 30 days. Prudential wants to make it quicker and less labor intensive for new and existing customers to get a quote while maintaining privacy boundaries.
 
 ![Image](/images/imageedit_4_2603267341.jpg)
 
