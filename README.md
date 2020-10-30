@@ -35,6 +35,6 @@ This project is based on the competition Driven Data published related to an ear
 
 ## [BNP - Paribas Cardif ](https://github.com/ofigue/BNP-ParibasCardif)
 
-* BNP - Paribas Cardif
+From the competition site description: As a global specialist in personal insurance, BNP Paribas Cardif serves 90 million clients in 36 countries across Europe, Asia and Latin America. In a world shaped by the emergence of new uses and lifestyles, everything is going faster and faster. When facing unexpected events, customers expect their insurer to support them as soon as possible. However, claims management may require different levels of check before a claim can be approved and a payment can be made.
 
 Markdown editing: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
