@@ -4,7 +4,7 @@
 
 This project is based on the competition Driven Data published related to H1N1 flu and the Seasonal one. It is about vaccination, a key public health measure used to fight infectious diseases. Vaccines provide immunization for individuals, and enough immunization in a community can further reduce the spread of diseases 
 
-![Image](/images/imageedit_8_2081338842.jpg)
+![Image](/images/160574492315400090.png)
 
 ## [Loan Predictions](https://github.com/ofigue/Loan_Predictions)
 
