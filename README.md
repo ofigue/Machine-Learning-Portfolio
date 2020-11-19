@@ -1,6 +1,6 @@
 # Projects:
 
-## [H1N1 and Seasonal Flu Vaccines (https://github.com/ofigue/H1N1_SeasonalFlu)
+## [H1N1 and Seasonal Flu Vaccines](https://github.com/ofigue/H1N1_SeasonalFlu)
 
 This project is based on the competition Driven Data published related to H1N1 flu and the Seasonal one. It is about vaccination, a key public health measure used to fight infectious diseases. Vaccines provide immunization for individuals, and enough immunization in a community can further reduce the spread of diseases 
 
