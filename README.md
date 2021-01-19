@@ -1,5 +1,11 @@
 # Projects:
 
+## [MTBI – Myers Briggs Personality Type Dataset](https://www.kaggle.com/datasnaek/mbti-type)
+
+This project is based on a dataset from Kaggle.com related to information of sets of posts that individuals had posted, and for each one of them have a label, that is a combination of the following personality types based on the Myers Briggs Personality Type.
+
+![Image](/images/160574492315400090.png)
+
 ## [H1N1 and Seasonal Flu Vaccines](https://github.com/ofigue/H1N1_SeasonalFlu)
 
 This project is based on the competition Driven Data published related to H1N1 flu and the Seasonal one. It is about vaccination, a key public health measure used to fight infectious diseases. Vaccines provide immunization for individuals, and enough immunization in a community can further reduce the spread of diseases 
