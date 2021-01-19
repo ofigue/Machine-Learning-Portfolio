@@ -4,7 +4,7 @@
 
 This project is based on a dataset from Kaggle.com related to information of sets of posts that individuals had posted, and for each one of them have a label, that is a combination of the following personality types based on the Myers Briggs Personality Type.
 
-![Image](/images/160574492315400090.png)
+![Image](/images/imageedit_1_5303011249.png)
 
 ## [H1N1 and Seasonal Flu Vaccines](https://github.com/ofigue/H1N1_SeasonalFlu)
 
