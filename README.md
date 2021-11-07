@@ -4,7 +4,7 @@
 
 This project is based on a dataset from Kaggle.com. It is about a fictitious XYZ Credit Card company that helps its merchants understand their data better and take key business decisions accurately by providing machine learning and analytics consulting.
 
-![Image](/images/rsz_screen_shot_2021-11-07_at_173350.png)
+![Image](/images/rsz_screenshot_2021-11-07.png)
 
 ## [MTBI – Myers Briggs Personality Type Dataset](https://www.kaggle.com/datasnaek/mbti-type)
 
