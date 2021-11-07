@@ -1,4 +1,4 @@
-# Machine Learning Projects:
+# Machine Learning Projects
 
 ## [Predicting Coupon Redemption](https://www.kaggle.com/vasudeva009/predicting-coupon-redemption)
 
