@@ -4,7 +4,7 @@
 
 Explanation
 
-
+![Image](/images/Screen Shot 2021-01-19 at 14.38.58.png)
 
 ## [MTBI – Myers Briggs Personality Type Dataset](https://www.kaggle.com/datasnaek/mbti-type)
 
